@@ -1,0 +1,22 @@
+h3
+{
+    text-align: center;
+    
+    font-weight: 400;
+    border-style: inset;
+    border-radius: 30px;
+    border-color:darkslateblue;
+    background-color: floralwhite;
+    
+     }
+     h1
+     {
+         font-style: italic;
+         text-shadow:10px 10px 5px blue;
+         color: rgb(17, 160, 196);
+     } 
+     input 
+     {
+       background-color: darkgray;
+     }
+    
